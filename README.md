@@ -1,2 +1,3 @@
 # github06
 This is my first Git Repository
+Author - Ishwari Vanarse
